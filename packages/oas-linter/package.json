@@ -1,5 +1,5 @@
 {
-  "name": "oas-linter",
+  "name": "@kaishuu0123/oas-linter",
   "version": "3.2.0",
   "description": "Default linter plugin for oas-validator",
   "main": "index.js",

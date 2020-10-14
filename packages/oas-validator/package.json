@@ -1,5 +1,5 @@
 {
-  "name": "oas-validator",
+  "name": "@kaishuu0123/oas-validator",
   "version": "5.0.2",
   "description": "Parser/validator for OpenAPI 3.x definitions",
   "main": "index.js",

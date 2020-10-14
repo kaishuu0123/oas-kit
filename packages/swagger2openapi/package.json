@@ -1,5 +1,5 @@
 {
-  "name": "swagger2openapi",
+  "name": "@kaishuu0123/swagger2openapi",
   "version": "7.0.2",
   "description": "Convert Swagger 2.0 definitions to OpenApi 3.0 and validate",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "oas-validate": "./oas-validate.js",
     "boast": "./boast.js"
   },
-  "funding": "https://github.com/Mermade/oas-kit?sponsor=1",
+  "funding": "https://github.com/kaishuu0123/oas-kit",
   "scripts": {
     "test": "mocha"
   },
@@ -25,11 +25,11 @@
     ]
   },
   "repository": {
-    "url": "https://github.com/Mermade/oas-kit.git",
+    "url": "https://github.com/kaishuu0123/oas-kit.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/mermade/oas-kit/issues"
+    "url": "https://github.com/kaishu0123/oas-kit/issues"
   },
   "author": "Mike Ralphson <mike.ralphson@gmail.com>",
   "license": "BSD-3-Clause",
